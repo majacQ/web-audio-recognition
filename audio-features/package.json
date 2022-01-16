@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^8.0.50",
-    "dct": "^0.0.3",
+    "dct": "^0.1.0",
     "eventemitter3": "^2.0.3",
     "fft": "^0.2.1",
     "kissfft-js": "^0.1.4",
