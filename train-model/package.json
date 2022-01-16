@@ -9,7 +9,7 @@
   "author": "Boris Smus <boris@smus.com> (http://smus.com)",
   "license": "ISC",
   "dependencies": {
-    "deeplearn": "^0.3.7",
+    "deeplearn": "^0.5.1",
     "eventemitter3": "^2.0.3",
     "tab64": "0.0.1"
   },
