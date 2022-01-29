@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/node": "^8.0.50",
     "dct": "^0.0.3",
-    "eventemitter3": "^2.0.3",
+    "eventemitter3": "^4.0.7",
     "fft": "^0.2.1",
     "kissfft-js": "^0.1.4",
     "node-wav": "0.0.2"
