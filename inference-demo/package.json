@@ -17,6 +17,6 @@
     "awesome-typescript-loader": "^3.3.0",
     "source-map-loader": "^0.2.3",
     "typescript": "^2.6.1",
-    "webpack-livereload-plugin": "^1.0.0"
+    "webpack-livereload-plugin": "^1.2.0"
   }
 }
